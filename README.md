@@ -2,7 +2,7 @@
 
 This repository is the official implementation of *SDFScan-Mamba: Lightweight Single-Encoder Dual-Frequency Scan-Aware Mamba Network for V-D-T Salient Object Detection*.
 
-**The source code and pretrained models will be released upon acceptance of the paper.**
+**The source code will be released upon acceptance of the paper.**
 
 ## Architecture
 
